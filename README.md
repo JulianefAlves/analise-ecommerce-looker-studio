@@ -4,4 +4,4 @@ Este projeto faz parte da minha formação em dados pela EBAC. Ele consiste no t
 
 [Clique aqui para visualizar o Dashboard Interativo](https://lookerstudio.google.com/reporting/a255044b-207b-49da-9134-c84ac13d2e90)
 
-![Preview do Dashboard](Captura de tela 2026-01-02 194748.png)
+![Preview do Dashboard](Captura%20de%20tela%202026-01-02%20194748.png)
